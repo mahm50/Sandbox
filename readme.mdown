@@ -1,0 +1,16 @@
+|Risk	|Impact	|Likelihood	|Monitoring	|Mitigation|
+|:--------:|:---:|:---:|:--------:|:--------:|
+|skills										|3|3|depends on feature 	|time taken for team member to learn tech must be taken into account
+|injury										|3|3|cannot be monitored	|Other members may have to cover.
+|incorrect product features					|5|2|constantly check with customer		|correct features on next iteration. 
+|scope creep								|4|3|changes requested vetted so time required does not increase unreasonably	|acceptance.
+|customer tech might be different from team |5|2|verify customer has ability to run all techs used. Changes to customer system must be noted	|avoid
+|compatibility								|5|1|check in devices used by customer	|avoid
+
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
